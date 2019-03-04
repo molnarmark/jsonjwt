@@ -1,6 +1,6 @@
 {
   "name": "jsonjwt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Effortlessly serve JSON files protected by JWT.",
   "main": "src/index.js",
   "scripts": {
@@ -13,5 +13,19 @@
   },
   "dependencies": {
     "jsonwebtoken": "^8.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/molnarmark/jsonjwt.git"
+  },
+  "homepage": "https://github.com/molnarmark/jsonjwt",
+  "bugs": {
+    "url": "https://github.com/molnarmark/jsonjwt/issues"
+  },
+  "keywords": [
+    "json",
+    "jwt",
+    "sign",
+    "jsonwebtoken"
+  ]
 }
