@@ -1,7 +1,7 @@
 {
-  "name": "jsoncrypt",
+  "name": "jsonjwt",
   "version": "0.1.0",
-  "description": "Safely serve JSON files.",
+  "description": "Effortlessly serve JSON files protected by JWT.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
